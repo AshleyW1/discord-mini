@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "name": "discord-mini",
+  "version": "1.0.0",
+  "description": "mini version of discord",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "",
+  "license": "ISC"
+}

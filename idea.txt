@@ -1,0 +1,7 @@
+A micro version of discord
+
+has all the same aspects of discord but you can control what you see
+
+if you want it can just be a terminal
+or just be a single server / dm that can be seen
+
