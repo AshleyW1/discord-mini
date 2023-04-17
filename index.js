@@ -45,4 +45,4 @@ client.once('ready', () => {
 
 
 
-client.login("MTA5NzYwMjY2NjQ2NjY2MDQ3Mw.GwN2qc.x9sYeYAZ9EcGxf-tGNLwlNd50RwWNqSyF6DAwU")
+client.login("MTA5NzYwMj")
